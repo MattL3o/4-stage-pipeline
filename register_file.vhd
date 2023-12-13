@@ -2,7 +2,7 @@
 --
 -- Title       : register_file
 -- Design      : multimedia_ALU
--- Author      : ageorge0368@gmail.com
+-- Author      : Matt and Alan
 -- Company     : Stony Brook University
 --
 -------------------------------------------------------------------------------
